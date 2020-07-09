@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: building Kooth, a mental health and wellbeing platform for children, young people and adults
+- 🌱 I’m currently learning: more on Kafka and event processing, also interested in game dev and VR outside of work
+- 💬 Ask me about: engineering leadership, Clojure, indie games
+- 😄 Pronouns: he/him
+
 <!--
 **gtrogers/gtrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

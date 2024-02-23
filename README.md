@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about: engineering leadership, indie games
+- 💬 Ask me about: programming, mindfulness, indie games, table-top RPGS and keeping the web wierd
 - 😄 Pronouns: he/him
 
 <!--
